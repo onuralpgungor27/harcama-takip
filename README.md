@@ -18,5 +18,5 @@ Projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları izleyi
 
 1. Depoyu klonlayın:
    ```bash
-   git clone <GITHUB_REPO_LINKINIZ>
+   git clone (https://github.com/onuralpgungor27/harcama-takip)
    cd harcama-takip
